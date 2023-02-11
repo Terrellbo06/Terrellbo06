@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jane, an <a href="(https://www.linkedin.com/in/terrell-b-300948148/)">IT Professional</a>☺</h1>
+<h1>Greetings! My name Terrell, an <a href="https://www.linkedin.com/in/terrell-b-300948148/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
