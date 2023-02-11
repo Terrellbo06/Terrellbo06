@@ -11,7 +11,3 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Terrellbo06/azure-network-protocols)
  
 <h2>🤳Connect with me:</h2>
-
-[<img align="left" alt="www.linkedin.com/in/terrell-b-300948148 | LinkedIn" width="22px" src="www.linkedin.com/in/terrell-b-300948148" />][linkedin]
-
-[linkedin]: www.linkedin.com/in/terrell-b-300948148
