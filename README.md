@@ -19,4 +19,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/Jane
+[linkedin]: https://www.linkedin.com/in/terrell-b-300948148
